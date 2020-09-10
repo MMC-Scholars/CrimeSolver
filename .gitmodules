@@ -1,0 +1,3 @@
+[submodule "Source/CrimeSolver/VRBase"]
+	path = Source/CrimeSolver/VRBase
+	url = https://github.com/MMC-Scholars/VRBase
