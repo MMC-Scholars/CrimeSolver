@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CrimeSolver.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EAEC532E-6B23-4A38-8286-64EF9977530D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CrimeSolver.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CrimeSolverEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0BA1A965-1E2E-4802-B2D1-0A2A6E749F51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CrimeSolver">
+      <UniqueIdentifier>{59D51335-7360-4359-BD99-D3A841E1C8D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CrimeSolver\CrimeSolver.Build.cs">
+      <Filter>Source\CrimeSolver</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CrimeSolver\CrimeSolver.cpp">
+      <Filter>Source\CrimeSolver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrimeSolver\CrimeSolver.h">
+      <Filter>Source\CrimeSolver</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CrimeSolver\CrimeSolverGameModeBase.cpp">
+      <Filter>Source\CrimeSolver</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CrimeSolver\CrimeSolverGameModeBase.h">
+      <Filter>Source\CrimeSolver</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

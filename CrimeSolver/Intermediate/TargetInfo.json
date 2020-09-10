@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CrimeSolver",
+			"Path": "C:\\Users\\William\\source\\repos\\CrimeSolver\\CrimeSolver\\Source\\CrimeSolver.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CrimeSolverEditor",
+			"Path": "C:\\Users\\William\\source\\repos\\CrimeSolver\\CrimeSolver\\Source\\CrimeSolverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

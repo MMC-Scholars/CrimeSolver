@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CrimeSolver.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\CrimeSolverEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\CrimeSolver.cpp.obj"
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\CrimeSolverGameModeBase.cpp.obj"
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\CrimeSolver.init.gen.cpp.obj"
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\CrimeSolverGameModeBase.gen.cpp.obj"
+"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\Default.rc2.res"
+/OUT:"C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\UE4Editor-CrimeSolver.lib"
+/INCLUDE:IMPLEMENT_MODULE_CrimeSolver

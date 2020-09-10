@@ -1,0 +1,3 @@
+[submodule "VRBase"]
+	path = VRBase
+	url = https://github.com/MMC-Scholars/VRBase

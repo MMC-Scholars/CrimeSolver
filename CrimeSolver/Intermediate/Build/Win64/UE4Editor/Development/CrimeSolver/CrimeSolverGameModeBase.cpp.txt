@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\Definitions.CrimeSolver.h
+c:\users\william\source\repos\crimesolver\crimesolver\source\crimesolver\CrimeSolverGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Inc\CrimeSolver\CrimeSolverGameModeBase.generated.h
