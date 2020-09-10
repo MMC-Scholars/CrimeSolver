@@ -1,2 +1,0 @@
-C:\Users\William\source\repos\CrimeSolver\CrimeSolver\Intermediate\Build\Win64\UE4Editor\Development\CrimeSolver\Definitions.CrimeSolver.h
-c:\users\william\source\repos\crimesolver\crimesolver\source\crimesolver\CrimeSolver.h
